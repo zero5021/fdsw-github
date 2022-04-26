@@ -1,12 +1,13 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+/* navbar */
 .log1 { width: 130px;
 }
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
